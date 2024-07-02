@@ -1,4 +1,5 @@
 streamlit
+phi
 phidata
 anthropic 
 duckduckgo-search
